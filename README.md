@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kaynite/wishlist-assignment.git
+   git clone https://github.com/Kaynite/wishlist-assignment.git
    cd wishlist-assignment
    ```
 

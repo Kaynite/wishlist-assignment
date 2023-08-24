@@ -11,6 +11,7 @@
     - [Item Store](#item-store)
     - [Items Statistics](#items-statistics)
   - [Views](#views)
+  - [Tests](#tests)
 
 ## Installation
 
@@ -20,7 +21,7 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/kaynite/wishlist-assignment.git
-   cd wishlist-laravel
+   cd wishlist-assignment
    ```
 
 2. **Install dependencies:**
@@ -106,3 +107,11 @@ A simple view has been created for the wishlist items index.
 
 - Route: `/items`
 - Description: Displays a list of wishlist items.
+
+## Tests
+
+The project includes a comprehensive test suite for the `items` features. You can run the tests using PHPUnit:
+
+```bash
+php artisan test
+```
